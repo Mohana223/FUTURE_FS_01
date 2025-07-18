@@ -1,0 +1,54 @@
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --clock-bg: #f1f1f1;
+  --button-bg: #dddddd;
+}
+
+body.dark {
+  --bg: #121212;
+  --text: #f5f5f5;
+  --clock-bg: #1e1e1e;
+  --button-bg: #333333;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  transition: 0.4s ease;
+}
+
+.container {
+  text-align: center;
+  background: var(--clock-bg);
+  padding: 30px 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  transition: 0.4s ease;
+}
+
+#clock {
+  font-size: 3rem;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: var(--button-bg);
+  color: var(--text);
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
