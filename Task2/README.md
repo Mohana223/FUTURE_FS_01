@@ -1,10 +1,10 @@
-# 📝 Attractive To-Do List Web App
+# Attractive To-Do List Web App
 
 This is a beautifully designed, animated **To-Do List App** built with **HTML, CSS, and JavaScript**. It helps users manage daily tasks in a visually pleasing and interactive interface. Perfect for productivity lovers and beginner web developers.
 
 ---
 
-## 🌟 Features
+## Features
 
 - ➕ Add tasks dynamically
 - ✔️ Mark tasks as completed
@@ -15,7 +15,7 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Technology | Role                      |
 |------------|---------------------------|
@@ -25,7 +25,7 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone or download** this repository.
 2. Open `To-Do List.html` in any modern browser.
@@ -33,3 +33,9 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 4. Click **"Add"** to create a task.
 5. Click ✔ to mark as complete.
 6. Click ✖ to remove a task.
+---
+
+## 🙋‍♀Author
+
+**Mohana Priya K**  
+*Front-End Developer Intern*
