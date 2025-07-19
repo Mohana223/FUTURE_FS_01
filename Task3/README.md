@@ -14,18 +14,6 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 
 ---
 
-## 📁 Project Structure
-
----
-
-## 🖥️ Demo
-
-![Calculator Screenshot](https://via.placeholder.com/600x350.png?text=Calculator+UI+Screenshot)
-
-> Replace the image URL above with your own screenshot if hosting online or in a repository.
-
----
-
 ## 🚀 How to Run
 
 1. **Download or Clone** the repository.
@@ -51,14 +39,6 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 
 ---
 
-## 💡 Future Improvements (Optional)
-
-- Add keyboard support
-- Implement advanced operations (%, √, ^)
-- Include light/dark theme toggle
-- Make it fully responsive on mobile
-
----
 
 ## 📜 License
 
