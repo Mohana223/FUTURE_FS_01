@@ -35,7 +35,7 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 6. Click ✖ to remove a task.
 ---
 
-## 🙋‍♀Author
+## Author
 
 **Mohana Priya K**  
 *Front-End Developer Intern*
