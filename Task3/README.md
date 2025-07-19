@@ -1,10 +1,10 @@
-# 🔢 Stylish Calculator Web App
+# Calculator Web App
 
 This is a simple yet elegant web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division in an interactive and visually appealing interface.
 
 ---
 
-## ✨ Features
+## Features
 
 - Beautiful and clean user interface
 - Supports addition, subtraction, multiplication, and division
@@ -14,7 +14,7 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Download or Clone** the repository.
 2. Open the `index.html` file in any modern web browser.
@@ -22,7 +22,7 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **HTML5** – For structure
 - **CSS3** – For styling and animations
@@ -30,7 +30,7 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 
 ---
 
-## 📌 Example
+## Example
 
 - Input 1: `10`
 - Input 2: `5`
@@ -40,13 +40,13 @@ This is a simple yet elegant web-based calculator built using HTML, CSS, and Jav
 ---
 
 
-## 📜 License
+## License
 
 This project is open-source and free to use for educational and personal purposes.
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 **Mohana Priya K**  
 *Front-End Developer Intern*
