@@ -9,9 +9,9 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 - ➕ Add tasks dynamically
 - ✔️ Mark tasks as completed
 - ❌ Delete tasks
-- 💡 Smooth animations (slide & fade)
-- 📱 Responsive and clean UI
-- 🎨 Modern color gradient and rounded card layout
+- Smooth animations (slide & fade)
+- Responsive and clean UI
+- Modern color gradient and rounded card layout
 
 ---
 
@@ -28,7 +28,7 @@ This is a beautifully designed, animated **To-Do List App** built with **HTML, C
 ## 🚀 How to Use
 
 1. **Clone or download** this repository.
-2. Open `index.html` in any modern browser.
+2. Open `To-Do List.html` in any modern browser.
 3. Type your task in the input box.
 4. Click **"Add"** to create a task.
 5. Click ✔ to mark as complete.
