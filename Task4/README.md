@@ -1,27 +1,22 @@
-# 🎯 Number Guessing Game
+# Number Guessing Game
 
 A simple and fun interactive game built with **HTML**, **CSS**, and **JavaScript**, where the player guesses a randomly generated number between 1 and 100.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎲 Random number generation
-- 🔢 Input validation
-- 🔁 Attempt tracking
-- ✅ Feedback messages for high/low/valid guess
-- 🔄 Restart game option
-- ✨ Simple animations and clean UI design
-
----
-
-## 📸 Screenshot
-
-![Number Guessing Game Screenshot](screenshot.png) <!-- Optional: replace with actual screenshot file -->
+- Random number generation
+- Input validation
+- Attempt tracking
+- Feedback messages for high/low/valid guess
+- Restart game option
+- Simple animations and clean UI design
 
 ---
 
-## 🛠️ Tech Stack
+
+## 🛠Tech Stack
 
 - **HTML5** – Structure of the game
 - **CSS3** – Styling and animations
@@ -29,12 +24,7 @@ A simple and fun interactive game built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📂 Folder Structure
-
-
----
-
-## 📋 How to Play
+## How to Play
 
 1. Enter a number between **1 and 100**.
 2. Click **Check** to see if your guess is correct.
@@ -54,14 +44,8 @@ A simple and fun interactive game built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📎 Demo
 
-> If hosted online (e.g., GitHub Pages), include a link here:
-[Live Demo 🔗](https://yourusername.github.io/Number-Guessing-Game)
-
----
-
-## 👩‍💻 Author
+## Author
 
 **Mohana Priya. K**  
 _Intern @ FutureInterns_
