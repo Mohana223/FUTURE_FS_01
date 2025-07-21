@@ -16,7 +16,7 @@ A simple and fun interactive game built with **HTML**, **CSS**, and **JavaScript
 ---
 
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **HTML5** – Structure of the game
 - **CSS3** – Styling and animations
@@ -36,22 +36,20 @@ A simple and fun interactive game built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Add difficulty levels (Easy/Medium/Hard)
 - Sound effects and timer
 - Save high scores locally
-
+ 
 ---
 
+## License
+
+This project is licensed under the MIT License - feel free to use and modify!
+
+---
 
 ## Author
 
 **Mohana Priya. K**  
-_Intern @ FutureInterns_
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - feel free to use and modify!
