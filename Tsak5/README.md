@@ -33,5 +33,12 @@ This is a simple web-based expense tracker that helps you manage your income and
 - Type: Expense
   
 
-## Made For
-**Task 5 - Naan Mudhalvan Internship**
+## License
+
+This project is licensed under the MIT License - feel free to use and modify!
+
+---
+
+## Author
+
+**Mohana Priya. K** 
